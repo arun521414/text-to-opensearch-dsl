@@ -111,7 +111,7 @@ Examples:
 
 Previous: "size": 20, "from": 0 → User: "next 5" → New: "size": 5, "from": 20
 Previous: "size": 10, "from": 0 → User: "next 3" → New: "size": 3, "from": 10
-Previous: "size": 5, "from": 5 → User: "next 10" → New: "size": 10, "from": 10
+Previous: "size": 5, "from": 5 → User: "next 10" → New: "size": 10, "from": 5
 
 For page numbers:
 
